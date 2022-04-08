@@ -1,0 +1,25 @@
+{
+  "name": "frist-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mo-aladl/Frist-Task.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mo-aladl/Frist-Task/issues"
+  },
+  "homepage": "https://github.com/mo-aladl/Frist-Task#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "nodemon": "^2.0.15",
+    "validator": "^13.7.0",
+    "yargs": "^17.4.0"
+  }
+}
